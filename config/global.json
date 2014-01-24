@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "ComicsReeder": {
+            "applicationId": "uKoPYsEPCuxyfZT3M5lyTytsiyZij0RHCSY1VuZ4", 
+            "masterKey": "3Vszj1HJQo488dfXmDZi32fKFczwn7dqrjoyRydQ"
+        }, 
+        "_default": {
+            "link": "ComicsReeder"
+        }
+    }
+}
